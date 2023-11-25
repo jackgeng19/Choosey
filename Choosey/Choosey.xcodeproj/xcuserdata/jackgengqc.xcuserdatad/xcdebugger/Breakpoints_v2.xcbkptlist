@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "592784B8-8222-4407-9441-F5EDC21931ED"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5ED834C-0DDB-4D58-8A18-7ECC38813134"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Choosey/Search/SearchService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "findBusinesses(latitude:longitude:radius:searchTerm:priceOption:sortOption:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B2DEA73-9478-43E9-8045-8A6DBB59B150"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Choosey/Search/SearchService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "findBusinesses(latitude:longitude:radius:searchTerm:priceOption:sortOption:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B2DEA73-9478-43E9-8045-8A6DBB59B150 - fa8203ae167f5685"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Choosey.SearchService.findBusinesses(latitude: Swift.Double, longitude: Swift.Double, radius: Swift.Int, searchTerm: Swift.String) async throws -&gt; Swift.Array&lt;Choosey.Business&gt;"
+                  moduleName = "Choosey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackgengqc/code/appteam/apprenticeship/f23-apprenticeship-p01-choosey-jackgeng19/Choosey/Choosey/Search/SearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "8B2DEA73-9478-43E9-8045-8A6DBB59B150 - fa8203ae167f5685"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Choosey.SearchService.findBusinesses(latitude: Swift.Double, longitude: Swift.Double, radius: Swift.Int, searchTerm: Swift.String) async throws -&gt; Swift.Array&lt;Choosey.Business&gt;"
+                  moduleName = "Choosey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackgengqc/code/appteam/apprenticeship/f23-apprenticeship-p01-choosey-jackgeng19/Choosey/Choosey/Search/SearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C54E6FAD-DBB3-414A-9EBC-47A8FF5D618E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Choosey/Search/SearchService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "findBusinesses(latitude:longitude:radius:searchTerm:priceOption:sortOption:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C54E6FAD-DBB3-414A-9EBC-47A8FF5D618E - afdea9f3bc54ab0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for static Choosey.SearchService.findBusinesses(latitude: Swift.Double, longitude: Swift.Double, radius: Swift.Int, searchTerm: Swift.String) async throws -&gt; Swift.Array&lt;Choosey.Business&gt;"
+                  moduleName = "Choosey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackgengqc/code/appteam/apprenticeship/f23-apprenticeship-p01-choosey-jackgeng19/Choosey/Choosey/Search/SearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "3072">
+               </Location>
+               <Location
+                  uuid = "C54E6FAD-DBB3-414A-9EBC-47A8FF5D618E - 73c1c5f8b26cb526"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for static Choosey.SearchService.findBusinesses(latitude: Swift.Double, longitude: Swift.Double, radius: Swift.Int, searchTerm: Swift.String) async throws -&gt; Swift.Array&lt;Choosey.Business&gt;"
+                  moduleName = "Choosey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackgengqc/code/appteam/apprenticeship/f23-apprenticeship-p01-choosey-jackgeng19/Choosey/Choosey/Search/SearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C54E6FAD-DBB3-414A-9EBC-47A8FF5D618E - fa8203ae167f5701"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for static Choosey.SearchService.findBusinesses(latitude: Swift.Double, longitude: Swift.Double, radius: Swift.Int, searchTerm: Swift.String) async throws -&gt; Swift.Array&lt;Choosey.Business&gt;"
+                  moduleName = "Choosey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackgengqc/code/appteam/apprenticeship/f23-apprenticeship-p01-choosey-jackgeng19/Choosey/Choosey/Search/SearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "C54E6FAD-DBB3-414A-9EBC-47A8FF5D618E - efd030bc4312b500"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for static Choosey.SearchService.findBusinesses(latitude: Swift.Double, longitude: Swift.Double, radius: Swift.Int, searchTerm: Swift.String) async throws -&gt; Swift.Array&lt;Choosey.Business&gt;"
+                  moduleName = "Choosey"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jackgengqc/code/appteam/apprenticeship/f23-apprenticeship-p01-choosey-jackgeng19/Choosey/Choosey/Search/SearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71F67991-524A-4C94-BAC0-7D3F5363B445"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Choosey/Search/SearchService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "findBusinesses(latitude:longitude:radius:searchTerm:priceOption:sortOption:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
