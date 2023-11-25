@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>Choosey</h1>
-      First Apprenticeship Project<be>
+      making decisions so you can save your brainpower for solving the mysteries of the universe, or just figuring out what to have for lunch.<be>
     </td>
     <td>
       <img src="./screenshots/icon.png" alt="App Icon" width="120">
