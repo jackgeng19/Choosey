@@ -3,7 +3,6 @@
     <td>
       <h1>Choosey</h1>
       First Apprenticeship Project<be>
-      (Can I put a copy of this repo to my public Github?)
     </td>
     <td>
       <img src="./screenshots/icon.png" alt="App Icon" width="120">
